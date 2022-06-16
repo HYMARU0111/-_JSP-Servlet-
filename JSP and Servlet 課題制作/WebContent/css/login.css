@@ -1,0 +1,15 @@
+
+body {
+	color: yellow;
+	background-color: black;
+	font-family: 'Noto Serif JP', serif;
+}
+body.text-center {
+	margin-top: 20%;
+	margin-bottom: 20%;
+}
+
+#floatingInput,
+#floatingPassword {
+	background-color: grey;
+}
